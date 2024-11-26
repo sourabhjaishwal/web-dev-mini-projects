@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow-y: hidden;
+    background-color: #DFE4F6;
+}
+
+.credit-card {
+    border-radius: 3em;
+    padding: 2em;
+    width: 42%;
+    background-clip: border-box;
+    background-size: cover;
+    background-image: linear-gradient(to bottom right, #0B1127, #263D8D);
+    position: relative;
+    z-index: 1;
+    box-shadow:
+        7px 10px 20px rgba(12, 20, 46, 0.06),
+        50px 50px 80px rgba(12, 20, 46, 0.07);
+}
+
+/* card-header-section */
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-header .bank-logo img {
+    width: 40%;
+}
+
+.card-header .bank-logo span {
+    display: inline;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 10px;
+}
+
+.card-header img {
+    width: 10%;
+}
+
+/* card-details-section */
+
+.card-details img {
+    width: 75px;
+    height: 50px;
+    margin: 30px 0 10px 0;
+}
+
+.card-details div {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* card-info-row-section */
+.card-info-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0 0 0;
+}
+
+.card-info-row .label {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.card-info-row .value {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-info-row .visa-logo img {
+    width: 80%;
+    margin: -5px 0 -5px 0;
+}
+
+.card-info-row .visa-logo p {
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 5px;
+}
