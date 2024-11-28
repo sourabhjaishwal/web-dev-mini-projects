@@ -48,10 +48,10 @@ body {
     border: none;
     font-weight: bold;
     color: rgb(255, 255, 255);
-    background-color: rgb(45, 54, 237);
+    background-color: rgb(0, 177, 12);
 }
 
 .input-fields button:hover {
     cursor: pointer;
-    background-color: rgb(28, 21, 128);
+    background-color: rgb(3, 100, 16);
 }
