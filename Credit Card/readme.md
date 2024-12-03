@@ -1,46 +1,36 @@
-# Project Title
+# A Simple Credit Card
 
-[Project Title Here]
+## Project Overview
 
-## Description
+### Description
 
-[Provide a brief overview of your project. What does it do? Why was it created? What problem does it solve?]
+A visually appealing credit card design built using HTML and CSS.
 
-Example:
-This project is a [web application/tool/automation script/etc.] that helps users [specific functionality]. Built to [reason/purpose], it focuses on [key features or benefits].
+### Screenshots
 
----
+![Credit Card Design](credit-card.png)
 
-## Screenshots
+### Technologies Used
 
-### Example Usage:
-![Screenshot 1](path/to/screenshot1.png)
-*Caption for the first screenshot.*
+- **Figma** – For creating the initial design and layout.
+- **HTML** – Used to structure the card design.
+- **CSS** – Used to style and enhance the card's appearance.
 
-![Screenshot 2](path/to/screenshot2.png)
-*Caption for the second screenshot.*
+### Learnings & Outcome
 
-(Add more screenshots as needed to showcase key features or functionality.)
+- Learned the basics of HTML tags to create structured content.
+- Gained experience with CSS styling techniques, including:
+  - Positioning elements precisely.
+  - Adding colors, fonts, and a consistent design style.
 
----
+### Connect with Me
 
-## Technologies Used
+Stay connected and explore more of my work:
 
-The project was developed using:
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sourabhjaishwal)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sourabhjaishwal)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sourabhjaishwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhjaishwal/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/im_Sourabh41)
 
-- **[Technology 1]**: [Short description, e.g., "for building the backend APIs."]
-- **[Technology 2]**: [Short description, e.g., "for the frontend framework."]
-- **[Technology 3]**: [Short description, e.g., "for database management."]
-- **[Tool/Platform]**: [Brief purpose.]
-
----
-
-## Learnings & Outcome
-
-### Key Learnings:
-- [Learning 1]: [What you learned about it.]
-- [Learning 2]: [Insight gained or skill developed.]
-- [Learning 3]: [Any challenges overcome and how they shaped the outcome.]
-
-### Outcome:
-This project provided valuable experience in [specific skills or concepts]. It achieved [goals met or problems solved], and it can be expanded to include [future improvements or features].
+Thank you for checking out my project! Let’s stay connected and build something amazing. **Happy coding!** 🚀
