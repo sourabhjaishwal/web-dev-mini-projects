@@ -8,7 +8,7 @@ A simple and attractive login card designed with HTML and CSS.
 
 ### Screenshots
 
-![Login Card Design](login-card.png)
+![Login Card Design](./assets/login-card.png)
 
 ### Technologies Used
 
