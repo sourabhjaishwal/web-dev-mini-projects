@@ -8,7 +8,7 @@ A visually appealing credit card design built using HTML and CSS.
 
 ### Screenshots
 
-![Credit Card Design](credit-card.png)
+![Credit Card Design](./assets/credit-card.png)
 
 ### Technologies Used
 
